@@ -4,7 +4,7 @@ I built this project to see how delay moves through an airline hub. When a plane
 
 I used two years of public flight data from the U.S. Department of Transportation (BTS) and focused on American Airlines' five biggest connecting hubs: DFW, CLT, ORD, PHL and MIA. The processing runs in Databricks, the results are in a Tableau dashboard, and at the end there's a small model that flags risky turns when a plane lands.
 
-**Dashboard:** [Tableau Public](TABLEAU_LINK_HERE)
+**Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/prithwiraj.chatterjee/viz/AA_Hub_Ops_Dashboard/2_Delay-RiskModel?publish=yes)
 
 A note on data: everything here comes from public BTS on-time files (Aug 2024 – Jul 2026). None of it is internal American Airlines data.
 
